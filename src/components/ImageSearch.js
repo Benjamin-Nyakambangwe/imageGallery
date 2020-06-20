@@ -13,7 +13,7 @@ const ImageSearch = ({ searchText }) => {
 	return (
 		<div className="flex items-center justify-between flex-wrap mx-12">
 		<div>
-			<h1 className="font-bold text-xl text-yellow-600">Image Gallery</h1>
+			<h1 className="font-bold text-4xl text-yellow-600">Image Gallery</h1>
 		</div>
 		<div>
 			<div className="max-w-sm rounded-overflow-hidden mb-10 mt-5 mx-auto">
